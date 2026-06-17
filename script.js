@@ -1,8 +1,8 @@
 function respostas(status){
 
     if (status === 'correta'){
-        alert('sim, vocẽ acertou')
+        alert('sim, você acertou')
     }else {
-        alert('você errou,')
+        alert('você errou')
     }
 }        
